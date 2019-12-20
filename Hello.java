@@ -9,7 +9,8 @@ class HelloWorld
 		System.out.println("Hello, World"); 
 		System.out.println("Version 2");
 		System.out.println("Version 3");
-		System.out.println("Version 4 Not Confromed");
+		System.out.println("Version 4 Not Conformed");
+		System.out.println("Version 5 Not Conformed");
 		
 	} 
 } 
